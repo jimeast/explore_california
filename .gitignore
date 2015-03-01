@@ -1,4 +1,6 @@
 junk*
 *.zip
 *.gz
-*.txt
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
